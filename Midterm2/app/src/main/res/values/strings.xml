@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Midterm2</string>
+    <string name="midterm_2">შუალედური გამოცდა 2</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="third_fragment">Third Fragment</string>
+    <string name="android">Android</string>
+</resources>
