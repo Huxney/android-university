@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coroutines</string>
+    <string name="launch_job_1">Launch Job 1</string>
+    <string name="launch_job_2">Launch Job 2</string>
+    <string name="launch_job_3">Launch Job 3</string>
+    <string name="job_1_minute_timer">Job 1 - Minute Timer</string>
+    <string name="job_2_add_random_number">Job 2 - Add Random Number</string>
+    <string name="stop_alert">Stop Alert</string>
+</resources>
